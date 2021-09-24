@@ -1,0 +1,13 @@
+# Privacy-Policy
+When you send an email to the email address displayed on our website we collect your email address and any other information you provide in that email (such as your name, telephone number and the information contained in any signature block in your email).
+
+Legal basis for processing:ourlegitimate interests (Article 6(1)(f) of the General Data Protection Regulation). 
+Legitimate interest(s): responding to enquiries and messages we receive and keeping records of correspondence.
+
+Legal basis for processing: necessary to perform a contract or to take steps at your request to enter into a contract (Article 6(1)(b) of the General Data Protection Regulation).
+Reason why necessary to perform a contract: where your message relates to us providing you with goods or services or taking steps at your request prior to providing you with our goods and services (for example, providing you with information about such goods and services), we will process your information in order to do so).
+
+
+Transfer and storage of your information
+
+Emails you send us are stored within the firebase.
